@@ -7,6 +7,7 @@ const MultiStepForm = () => {
   const [currentStep, setCurrentStep] = useState(1);
 
   const nextStep = () => {
+    // rftgb35htg34
     if (currentStep < 3) {
       setCurrentStep(currentStep + 1);
     }

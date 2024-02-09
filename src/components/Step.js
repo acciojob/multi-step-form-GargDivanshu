@@ -15,6 +15,10 @@ const Step = ({ stepNumber, currentStep, onNext, onPrev, onSubmit }) => {
         </>
       )}
 
+{/* 
+efji3hrifhr3i
+
+frv34v2*/}
       {stepNumber === 2 && (
         <>
           <label htmlFor="model">Car Model:</label>
